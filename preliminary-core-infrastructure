@@ -1,0 +1,21 @@
+# Infrastructure concepts that will be used as teh core of VSO-AI
+
+## Services
+
+### Core
+
+    -   CrewAI for brainstorming sessions
+    -   EHR
+
+
+### Advanced
+    -   Analyze potential coorelations
+        -   Processing location(s)
+        -   Timestamps throughout the years
+        -   Types of claims (Initial, Supplemental, HLR, etc)
+
+
+### Tools
+    -   Scrape r/VeteranBenefits
+    -   Business Intelligence Dashboard
+
